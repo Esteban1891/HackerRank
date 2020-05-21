@@ -1,1 +1,1 @@
-<strong>Link to the project <a href="https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem">here</a><strong>
+<strong>Link to the problem <a href="https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem">here</a><strong>
